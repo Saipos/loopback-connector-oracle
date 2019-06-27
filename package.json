@@ -21,7 +21,7 @@
   "dependencies": {
     "async": "^2.1.5",
     "debug": "^2.1.1",
-    "loopback-connector": "^4.0.0",
+    "loopback-connector": "github:Saipos/loopback-connector#master",
     "oracledb": "^2.2.0",
     "strong-globalize": "^2.6.2"
   },
